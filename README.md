@@ -1,6 +1,8 @@
 # Advanced AWS CloudFormation for Enterprise
 This is the repository for the LinkedIn Learning course Advanced AWS CloudFormation for Enterprise. The full course is available from [LinkedIn Learning][lil-course-url].
 
+Modified by Ted Carr
+
 ![Advanced AWS CloudFormation for Enterprise][lil-thumbnail-url] 
 
 With AWS CloudFormation, DevOps professionals are able to create a collection of AWS and third-party resources, then easily provision, manage, and automate them. Join IT architect and Notre Dame professor Brandon Rich as he covers the skills you need to know to get the most out of AWS CloudFormation for enterprise.
