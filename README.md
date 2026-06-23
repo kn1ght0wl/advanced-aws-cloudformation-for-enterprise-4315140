@@ -1,7 +1,7 @@
 # Advanced AWS CloudFormation for Enterprise
 This is the repository for the LinkedIn Learning course Advanced AWS CloudFormation for Enterprise. The full course is available from [LinkedIn Learning][lil-course-url].
 
-Modified by Ted Carr
+Modified by Kn1ght0wl
 
 ![Advanced AWS CloudFormation for Enterprise][lil-thumbnail-url] 
 
